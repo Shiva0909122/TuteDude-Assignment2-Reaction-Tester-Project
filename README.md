@@ -1,1 +1,3 @@
 # TuteDude-Assignment2-Reaction-Tester-Project
+
+Problem Statement:  You need to develop the Reaction Tester Project. The aim for this is to develop a JavaScript-based application that measures and improves user reaction times. This project involves creating an interactive interface where users respond to visual stimuli by clicking a button as quickly as possible. The user is presented with a moving box on the screen and must click on it as quickly as possible. After each successful click, the application calculates and displays the user's reaction time, providing immediate feedback. This project enhances user engagement through a fun and challenging experience while offering insights into their reaction speed.
